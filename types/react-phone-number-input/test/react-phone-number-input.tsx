@@ -26,6 +26,7 @@ const test1 = (
         international={true}
         country={'US'}
         countrySelectProps={{ tabIndex: '-1' }}
+        countryCallingCodeEditable={false}
     >
         <div>panel 1</div>
         <div>panel 2</div>
